@@ -1,9 +1,8 @@
 import { useParams, Link, useSearchParams } from "react-router";
 import { useState, useEffect } from "react";
-import type * as Route from "../+types/artist.$id";
 import Navigation from "~/components/Navigation";
-import { GroupProvider } from "~/contexts/GroupContext";
 import groupsData from "~/data/groups.json";
+import type { Route } from "../+types/home";
 
 interface Group {
   id: string;
@@ -24,7 +23,7 @@ interface Album {
   short_description: string;
 }
 
-export function meta({ params }: Route.MetaArgs) {
+export function meta({ params }: Route["MetaArgs"]) {
   const group = groupsData.find((g) => g.id === params.id);
 
   return [
