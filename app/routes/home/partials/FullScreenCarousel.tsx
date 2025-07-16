@@ -92,8 +92,14 @@ export default function FullScreenCarousel() {
   const currentItem = items[currentSlide];
 
   const handleSlideClick = useCallback(() => {
-    navigate(currentItem.link, { replace: true });
+    const isExternal = currentItem.link.startsWith('http');
+    if (isExternal) {
+      window.open(currentItem.link, '_blank'); // ouvre dans un nouvel onglet
+    } else {
+      navigate(currentItem.link, { replace: true });
+    }
   }, [navigate, currentItem.link]);
+  
 
   return (
     <section className="relative h-[80vh] w-full overflow-hidden">

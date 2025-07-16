@@ -446,12 +446,12 @@ const FilterButtons: React.FC<FilterButtonsProps> = ({
   ];
 
   return (
-    <div className="flex bg-white/5 rounded-xs p-1 shadow-lg">
+    <div className="flex gap-2 bg-white/4 rounded-xs p-4 shadow-md">
       {filterOptions.map(({ key, label }) => (
         <button
           key={key}
           onClick={() => onFilterChange(key)}
-          className={`px-4 py-2 rounded-xs text-md font-medium transition-all duration-200 ${
+          className={`px-7 py-4 rounded-md text-3xl font-medium transition-all duration-200 ${
             filter === key
               ? "bg-[#B5252A] text-white shadow-md"
               : "text-gray-300 hover:text-white hover:bg-black/70"

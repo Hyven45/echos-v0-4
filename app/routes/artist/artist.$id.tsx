@@ -2,7 +2,7 @@ import { useParams, Link, useSearchParams } from "react-router";
 import { useState, useEffect } from "react";
 import Navigation from "~/components/Navigation";
 import groupsData from "~/data/groups.json";
-import type { Route } from "../+types/home";
+import type { Route } from "../+types/home"; 
 
 interface Group {
   id: string;
@@ -52,7 +52,7 @@ export default function Artist() {
 
   const group = groupsData.find((g) => g.id === id) as Group | undefined;
   const selectedAlbum = albumId
-    ? group?.albums.find((album) => album.id.toString() === albumId)
+    ? group?.albums.find((album) => album.id.toString()  === albumId)
     : group?.albums[0];
   const otherAlbums = group?.albums.filter((album) =>
     albumId ? album.id.toString() !== albumId : album.id !== group.albums[0]?.id

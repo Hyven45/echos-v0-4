@@ -35,9 +35,9 @@ const Navigation = ({ isScrolled }: { isScrolled: boolean }) => {
       aria-label="Navigation principale"
     >
       <ul className="flex items-center gap-16 text-white text-3xl">
-        <li>
-          <a href="/#collage-monde" aria-label="Section Âmes rebelles">
-            Nos Rookies
+      <li>
+          <a href="/#rocknroulette" aria-label="Section Notre crew">
+            Rock'n'Roulette
           </a>
         </li>
         <li>
@@ -49,10 +49,13 @@ const Navigation = ({ isScrolled }: { isScrolled: boolean }) => {
           </a>
         </li>
         <li>
-          <a href="/#collage-monde" aria-label="Section Notre crew">
-            Notre crew
+          <a href="/#collage-monde" aria-label="Section Âmes rebelles">
+            Nos Rookies
           </a>
         </li>
+        <li>
+  <a href="/notre-crew" aria-label="Section Notre crew">Notre crew</a>
+  </li>
       </ul>
 
       <div className="absolute left-1/2 transform -translate-x-1/2">

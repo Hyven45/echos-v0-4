@@ -75,7 +75,7 @@ const SearchBar = ({ isOpen, onClose }: SearchBarProps) => {
       className="fixed inset-0 bg-black/80 z-[100] flex items-start justify-center pt-32"
       onClick={handleOverlayClick}
     >
-      <div className="bg-black/80 rounded-xs w-full max-w-2xl mx-4 shadow-2xl">
+      <div className="bg-black/80 rounded-md w-full max-w-3xl mx-5 shadow-3xl">
         <div className="p-6">
           <div className="relative">
             <input
@@ -85,7 +85,7 @@ const SearchBar = ({ isOpen, onClose }: SearchBarProps) => {
               onChange={(e) => setSearchQuery(e.target.value)}
               onKeyDown={handleKeyDown}
               placeholder="Rechercher un artiste ou un album..."
-              className="w-full bg-black/80 text-white text-lg px-4 py-3 rounded-xs border border-white/10 focus:border-white focus:outline-none"
+              className="w-full bg-black/80 text-white text-3xl px-5 py-6 rounded-xs border border-white/10 focus:border-white focus:outline-none"
             />
             {searchQuery && (
               <button
@@ -115,7 +115,7 @@ const SearchBar = ({ isOpen, onClose }: SearchBarProps) => {
                   <div className="flex items-center justify-between">
                     <div>
                       <div className="text-white font-medium">{result.name}</div>
-                      <div className="text-white/20 text-sm">
+                      <div className="text-white/20 text-lg">
                         {result.type === "artist" ? (
                           <span>Artiste • {result.genre}</span>
                         ) : (

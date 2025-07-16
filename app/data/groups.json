@@ -38,7 +38,7 @@
     "name": "Dream Theater",
     "genre": "Progressive Metal",
     "origin": "United States",
-    "description": "Dream Theater, c'est le voyage dans ta tête avec des compos complexes et un jeu virtuose. Ils te plongent dans des rêves et des réflexions profondes.",
+    "description": "Eux... c’est LE groupe de musiciens virtuoses qui te font voyager dans des mondes complexes avec leurs compos prog. Leur musique c’est un puzzle sonore qui te tient en haleine et te fait réfléchir en même temps. Une vrai dinguerie..",
     "short_description": "Des compos complexes et un jeu virtuose qui te font voyager.",
     "albums": [
       {
@@ -46,8 +46,8 @@
         "title": "Parasomia",
         "src": "/assets/images/albums/arch-ennemy/dream-theater-parasomia.png",
         "alt": "Dream Theater - Parasomia",
-        "description": "Dream Theater, c'est le voyage dans ta tête avec 'Parasomia'. Les mecs te font plonger dans des rêves bizarres avec des passages musicaux de ouf et des paroles qui te font réfléchir. Chaque morceau t'emmène dans un monde de rêves et de mystères. Si t'aimes les compos complexes et les ambiances éthérées, cet album va te faire planer.",
-        "short_description": "Un voyage musical à travers les rêves et les mystères avec des compositions complexes."
+        "description": "La, c'est le voyage dans ta tête avec 'Parasomia'. Les mecs te font plonger dans des rêves bizarres avec des passages musicaux de ouf et des paroles qui te font réfléchir. Chaque morceau t'emmène dans un monde de rêves et de mystères. Si t'aimes les compos complexes et les ambiances éthérées, cet album va te faire planer.",
+        "short_description": "Un voyage musical à travers les rêves et les mystères aux compositions complexes."
       }
     ]
   },
@@ -56,8 +56,8 @@
     "name": "The Horrors",
     "genre": "Post-punk / Gothic Rock",
     "origin": "United Kingdom",
-    "description": "Les Horrors, c'est l'exploration des côtés sombres de la nature humaine avec un son post-punk et gothique. Ça te file la chair de poule.",
-    "short_description": "Exploration des côtés sombres avec un son post-punk et gothique.",
+    "description": "Les Horrors, c'est l'exploration des côtés sombres de la nature humaine avec un son post-punk et gothique. c’est l’ambiance qui te colle la chair de poule.",
+    "short_description": "Une exploration des côtés sombres avec un son post-punk et gothique.",
     "albums": [
       {
         "id": 4,
@@ -65,7 +65,7 @@
         "src": "/assets/images/albums/arch-ennemy/the-horrors.png",
         "alt": "The Horrors - The Horrors",
         "description": "Les Horrors, c'est l'exploration des côtés sombres de la nature humaine. Avec leur album éponyme, ils te plongent dans des mélodies étranges et des ambiances qui te filent la chair de poule. Ça parle de peur, de désir, et de l'inconnu. Si t'aimes les trucs qui te font frissonner, cet album est fait pour toi.",
-        "short_description": "Une exploration de la peur, du désir et de l'inconnu à travers des mélodies étranges."
+        "short_description": "De la peur, du désir et de l'inconnu à travers des mélodies bizarres."
       }
     ]
   },
@@ -75,7 +75,7 @@
     "genre": "Post-punk / Indie Rock",
     "origin": "France",
     "description": "MNNQNS, c'est l'énergie brute de la vie moderne avec des influences post-punk et indie rock. Ça parle d'identité et de quête de sens.",
-    "short_description": "Énergie brute et quête de sens avec un son post-punk.",
+    "short_description": "Énergie brute et quête de sens avec un son post-punk flippant.",
     "albums": [
       {
         "id": 5,
@@ -83,15 +83,15 @@
         "src": "/assets/images/albums/mnnqns/body-negative.png",
         "alt": "MNNQNS - Body Negative",
         "description": "MNNQNS, c'est l'énergie brute de la vie moderne. 'Body Negative', c'est des riffs de guitare qui déchirent et des rythmes qui te font bouger. Ça parle d'identité, d'aliénation, et de la quête de sens dans un monde chaotique. Chaque morceau est une explosion d'énergie et d'émotion. Si t'aimes le rock qui te secoue, fonce !",
-        "short_description": "Une exploration brute de l'identité et de l'aliénation avec des riffs de guitare énergiques."
+        "short_description": "Un truc brute. De l'identité et de l'aliénation avec des riffs de guitare de malade."
       },
       {
         "id": 6,
         "title": "The Chosen",
         "src": "/assets/images/albums/mnnqns/the-choosen.png",
         "alt": "MNNQNS - The Chosen",
-        "description": "'The Chosen' de MNNQNS, c'est un album qui te fait réfléchir et bouger. Avec des influences post-punk et indie rock, le son est à la fois frais et familier. Ça parle de choix, de destin, et de la puissance de l'individu. Chaque morceau est une claque intellectuelle et sonore. Si t'aimes les trucs qui te font cogiter, cet album est pour toi.",
-        "short_description": "Une exploration intellectuelle et sonore du choix et du destin."
+        "description": "'The Chosen' de MNNQNS, c'est un album qui te fait réfléchir et bouger. Avec des influences post-punk et indie rock, le son est à la fois frais et familier. Ça parle de choix, de destin, et de puissance de l'individu, oui c'est profond... Et chaque morceau est une claque intellectuelle et sonore dans ta face. Si t'aimes les trucs qui te font cogiter c'est clairement un album pour toi.",
+        "short_description": "La c'est trop intellectuelle pour nous, mais on adore ça."
       }
     ]
   },
@@ -101,7 +101,7 @@
     "genre": "Alternative Rock",
     "origin": "France",
     "description": "Lysistrata, c'est des paysages sonores immersifs et une profondeur émotionnelle. Ils explorent la nature, la solitude et le temps qui passe.",
-    "short_description": "Paysages sonores immersifs et profondeur émotionnelle.",
+    "short_description": "Paysages sonores immersifs et profondeur émotionnelle rien que pour toi.",
     "albums": [
       {
         "id": 7,
@@ -109,7 +109,7 @@
         "src": "/assets/images/albums/lysistrata/park.png",
         "alt": "Lysistrata - Park",
         "description": "'Park' de Lysistrata, c'est un voyage sonore et émotionnel. Les guitares sont travaillées, les rythmes puissants, et le son est à la fois vaste et intime. Ça parle de nature, de solitude, et du temps qui passe. Chaque morceau est une œuvre d'art, et si t'aimes les ambiances immersives, cet album est pour toi.",
-        "short_description": "Un voyage sonore et émotionnel explorant la nature et la solitude."
+        "short_description": "Un voyage sonore et émotionnel explorant la nature et la solitude pour les chatons tous triste."
       },
       {
         "id": 8,
@@ -236,13 +236,13 @@
     "name": "Echo Chamber",
     "genre": "Alternative Rock",
     "origin": "Unknown",
-    "description": "Echo Chamber, c'est une exploration poignante de la mémoire et de la perte avec un son rock alternatif.",
+    "description": "Echo Chamber, c’est du rock alternatif qui te prend aux tripes, avec des sons qui résonnent comme des souvenirs un peu flous. Leur album Memorial te balade entre mélancolie et moments forts, parfait pour t’embarquer dans une vibe profonde.",
     "short_description": "Exploration poignante de la mémoire avec du rock alternatif.",
     "albums": [
       {
         "id": 21,
         "title": "The Black Hole Understands",
-        "src": "/assets/images/albums/just-mustard/live-session.png",
+        "src": "/assets/images/albums/echoecho.jpg.webp ",
         "alt": "just-mustard - Live Session",
         "description": "'Live Session' de just-mustard, c'est l'énergie brute et l'émotion des performances live du groupe. L'album propose une collection de morceaux enregistrés en live, montrant la capacité du groupe à créer une musique à la fois puissante et intime. Chaque morceau est un témoignage du son unique et de la vision du groupe, offrant aux auditeurs un aperçu de la magie de leurs concerts.",
         "short_description": "Capturer l'énergie brute et l'émotion des performances live."
@@ -256,5 +256,157 @@
         "short_description": "Une exploration poignante de la mémoire et de la perte avec des mélodies éthérées."
       }
     ]
-  }
+  },
+  {
+    "id": "echo-chamber",
+    "name": "Echo Chamber",
+    "genre": "Alternative Rock",
+    "origin": "Unknown",
+    "description": "Echo Chamber, c'est une exploration poignante de la mémoire et de la perte avec un son rock alternatif.",
+    "short_description": "Exploration poignante de la mémoire avec du rock alternatif.",
+    "albums": [
+      {
+        "id": 20,
+        "title": "Memorial",
+        "src": "/assets/images/album memorial.jpg",
+        "alt": "Echo Chamber - Memorial",
+        "description": "'Memorial' d'Echo Chamber, c'est une exploration poignante de la mémoire et de la perte. Les mélodies sont éthérées, les paroles introspectives, et le son est à la fois envoûtant et beau. Ça parle de nostalgie, de réflexion, et du passage du temps. Chaque morceau est une œuvre d'art soigneusement conçue, offrant aux auditeurs un aperçu du monde unique de son et d'émotion du groupe.",
+        "short_description": "Une exploration poignante de la mémoire et de la perte avec des mélodies éthérées."
+      }
+    ]
+  },
+  {
+    "id": "brutus",
+    "name": "Brutus",
+    "genre": "Post-metal / Hardcore / Shoegaze",
+    "origin": "Belgium",
+    "description": "Brutus, c'est un mélange viscéral de puissance et d'émotion. Une batterie sauvage, une voix à fleur de peau, et un mur de son post-hardcore qui te prend à la gorge.",
+    "short_description": "Post-metal explosif et émotion brute venue de Belgique.",
+    "albums": [
+      {
+        "id": 22,
+        "title": "Nest",
+        "src": "/assets/images/albums/brutus/nest.png",
+        "alt": "Brutus - Nest",
+        "description": "'Nest', c’est un cri du cœur. Brutus t’éclate à la tronche avec une batterie frénétique, une voix tantôt hurlée, tantôt fragile. Les textes parlent de chaos intérieur, de solitude, et de survie. C’est brut, c’est beau, c’est intense. Si t’aimes le rock qui vibre jusqu’aux tripes, écoute ça.",
+        "short_description": "Un cri du cœur, entre chaos intérieur et énergie brute."
+      },
+      {
+        "id": 23,
+        "title": "Unison Life",
+        "src": "/assets/images/albums/brutus/Unison-Life.png",
+        "alt": "Brutus - Unison Life",
+        "description": "Avec 'Unison Life', Brutus affine sa formule : des compositions plus maîtrisées, toujours aussi puissantes, mais avec une profondeur émotionnelle encore plus marquée. Ça parle de changements, de ruptures, de recherche d’harmonie dans un monde déséquilibré. Une claque sonore et émotionnelle.",
+        "short_description": "Une claque sonore et émotionnelle à la recherche d’harmonie."
+      }
+    ]
+  },
+  {
+    "id": "gilla-band",
+    "name": "Gilla Band",
+    "genre": "Noise Rock / Post-punk industriel / Experimental",
+    "origin": "Irlande",
+    "description": "Alors eux c’est la version brute, étouffante et frénétique du post-punk qui rigole pas. Leur son n’est pas fait pour être gentil, mais pour te secouer les tripes et les nerfs et te défoncer l’oreille droite. Une expérience sonore radicale qui te prend aux tripes et ailleurs...",
+    "short_description": "Post-punk abrasif et industriel, une expérience sonore brutale et intense, chez toi.",
+    "albums": [
+      {
+        "id": 24,
+        "title": "Most Normal",
+        "src": "/assets/images/albums/gilla-band/GILLA-BAND-most-normal.png",
+        "alt": "Gilla Band - Most Normal",
+        "description": "Avec 'Most Normal', Gilla Band te balance une claque dissonante et bordélique, mais ultra maîtrisée. C’est le chaos organisé : structures éclatées, rythmes cassés, machines qui hurlent. La voix de Dara Kiely oscille entre spasme et incantation, jamais rassurante. Un album dense, radical, parfait pour les esprits tendus qui aiment le son qui pousse dans ses retranchements.",
+        "short_description": "Une claque chaotique et maîtrisée, parfaite pour les amateurs de noise rock expérimental."
+      },
+      {
+        "id": 25,
+        "title": "The Talkies",
+        "src": "/assets/images/albums/gilla-band/Girl-band-the-talkies.png",
+        "alt": "Gilla Band - The Talkies",
+        "description": "'The Talkies' est l’album qui a véritablement affirmé l’identité unique de Gilla Band (alors Girl Band). C’est une plongée oppressante dans un univers sonore abrasif et mécanique. Là où 'Most Normal' explose les cadres, 'The Talkies' les dissout dans une tension constante, comme une migraine rythmique. La production est clinique, la rythmique sèche, et l’ambiance métallique suinte anxiété et paranoïa.",
+        "short_description": "Un voyage oppressant et abrasif dans un post-punk mécanique et tendu."
+      }
+    ],
+    "ambiance": "Dès l’ouverture avec la respiration saccadée de “Prolix”, tu te prends la musique à la gorge. Pas de répit ici, juste des pics de frénésie comme dans “Going Norway” et des descentes hallucinées telles “Amygdala”. Le son est sec, martelé, métallique, comme une machine qui suinte anxiété, paranoïa et désintégration mentale. Parfait pour les esprits qui cherchent l’intensité et la tension dans chaque note."
+  },
+  {
+    "id": "weird-milk",
+    "name": "Weird Milk",
+    "genre": "Indie rock rétro / Pop psyché / Baroque rock",
+    "origin": "Royaume-Uni",
+    "description": "Weird Milk, c’est du rock d’aujourd’hui avec un twist rétro 60’s super léché. Leur son est cinématographique, doux-amer, mélancolique sans tomber dans le passé. Un groupe à part qui joue sur l’élégance et la nostalgie avec finesse.",
+    "short_description": "Un rock moderne à l’élégance rétro, doux et mélancolique.",
+    "albums": [
+      {
+        "id": 26,
+        "title": "We Were Strangers",
+        "src": "/assets/images/albums/weird-milk/we-were-strangers.png",
+        "alt": "Weird Milk - We Were Strangers",
+        "description": "'We Were Strangers' est un EP qui sonne comme la bande-son d’un vieux film oublié. Entre harmonies à la Beatles, ruptures orchestrales et romantisme vintage, c’est simple, charmant et parfait pour souffler un coup dans une prog plus brute.",
+        "short_description": "Un mini-album charmant, nostalgique et cinématographique."
+      },
+      {
+        "id": 27,
+        "title": "Cruel To Be Kind",
+        "src": "/assets/images/albums/weird-milk/cruel-to-be-kind.png",
+        "alt": "Weird Milk - Cruel To Be Kind",
+        "description": "'Cruel To Be Kind' montre la facette plus légère et solaire du groupe. Plus direct que le précédent, cet EP marie élégance rétro et pop sincère. Des morceaux comme 'Time Machine' ou 'Honey, I’m Around' font vibrer cette vibe douce et chaleureuse à la Beach Boys ou Kinks.",
+        "short_description": "Un EP solaire et élégant qui mêle pop rétro et sincérité."
+      }
+    ],
+    "ambiance": "Avec des guitares reverb, des chœurs veloutés et cette touche de nostalgie anglaise, Weird Milk te plonge dans un univers doux et chaleureux. C’est un son qui invite à la détente et à la rêverie, parfait pour souffler dans une programmation plus brute."
+  },
+  {
+    "id": 28,
+    "name": "Frànçois & The Atlas Mountains",
+    "genre": "Indie rock / Pop psyché / Post-punk doux",
+    "origin": "France (Nantes)",
+    "description": "Frànçois & The Atlas Mountains, c’est un vent frais sur la scène indie française. Leur musique mêle douceur mélancolique et rythmes qui donnent envie de bouger, avec une touche d’exotisme et une écriture qui fait voyager. Une invitation à la rêverie, loin du bruit saturé mais avec une vraie profondeur.",
+    "short_description": "Un souffle doux et mélancolique, entre pop psyché et indie sensible.",
+    "albums": [
+      {
+        "id": 32,
+        "title": "Banane Bleue",
+        "src": "/assets/images/albums/francois-atlas-mountains/banane-bleue.png",
+        "alt": "Frànçois & The Atlas Mountains - Banane Bleue",
+        "description": "'Banane Bleue' c’est un disque qui navigue entre chanson française élégante, pop psychédélique et sons world. Chaque morceau est une balade, un poème en musique porté par des arrangements riches mais légers. C’est parfait pour une écoute calme, en mode soirée cosy ou journée douce.",
+        "short_description": "Un album chaleureux et poétique, plein d’élégance et de douceur."
+      },
+      {
+        "id": 33,
+        "title": "E Volo Love",
+        "src": "/assets/images/albums/francois-atlas-mountains/e-volo-love.png",
+        "alt": "Frànçois & The Atlas Mountains - E Volo Love",
+        "description": "'E Volo Love' a posé les bases sonores du groupe. Un mix lumineux de chanson française, afro-pop et dream pop, plus sautillant et aventureux que 'Banane Bleue'. C’est une musique ouverte et sensorielle, qui invite au voyage.",
+        "short_description": "L’album clé, lumineux et libre, entre chanson et dream pop."
+      }
+    ],
+    "ambiance": "Avec ses guitares carillonnantes, ses percussions légères et la voix douce de Frànçois, l’ambiance est onirique et pleine de groove subtil. C’est un univers où douceur et mélodie simple se mélangent pour créer des instants suspendus, parfaits pour la rêverie."
+  },
+  {
+    "id": 29,
+    "name": "Feu! Chatterton",
+    "genre": "Rock alternatif / Chanson française",
+    "origin": "France (Paris)",
+    "description": "Feu! Chatterton, c’est la poésie brute et urbaine qui secoue le rock français. Leur son mêle des textes travaillés à une énergie intense, parfois sombre, toujours captivante. Un groupe qui raconte la ville, les nuits, les doutes, avec classe et rage.",
+    "short_description": "Du rock français intense, poétique et urbain.",
+    "albums": [
+      {
+        "id": 30,
+        "title": "Ici le jour (a tout enseveli)",
+        "src": "/assets/images/albums/feu-chatterton/ici-le-jour.jpg",
+        "alt": "Feu! Chatterton - Ici le jour (a tout enseveli)",
+        "description": "'Ici le jour' est un album puissant, à la fois sombre et lyrique, qui mêle rock classique et poésie moderne. Des morceaux comme 'La Malinche' ou 'L'oiseau' plantent un décor à la fois mystérieux et fascinant.",
+        "short_description": "Un premier album sombre et poétique, un classique du rock français."
+      },
+      {
+        "id": 31,
+        "title": "L'Oiseleur",
+        "src": "/assets/images/albums/feu-chatterton/loiseleur.jpg",
+        "alt": "Feu! Chatterton - L'Oiseleur",
+        "description": "'L'Oiseleur' poursuit cette veine intense avec des morceaux encore plus vibrants et électrisants que des doigts dans une prise. C'est une plongée dans un univers mélancolique mais vivant, porté par la voix charismatique d'Arthur Teboul, qui est un super bon chanteur, je te le dis.",
+        "short_description": "Plus électrique et mélancolique que ta maman qui saisit l’essentiel."
+      }
+    ],
+    "ambiance": "C’est la rencontre d’une poésie urbaine et d’un rock puissant, parfois lourd, souvent atmosphérique. Une musique qui s’écoute autant qu’elle se ressent, dans les veines ou encore tes oreilles."
+  }  
 ]

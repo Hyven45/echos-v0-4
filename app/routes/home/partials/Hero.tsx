@@ -30,7 +30,7 @@ export default function Hero() {
           <p>Votre navigateur ne supporte pas la lecture de vidéos.</p>
         </video>
 
-        <div className="absolute top-1/2 left-1/2 transform -translate-x-[95%] -translate-y-1/2 text-white text-left text-[10rem]">
+        <div className="absolute top-1/2 left-1/2 transform -translate-x-[95%] -translate-y-1/2 text-white text-left text-[12.5rem]">
           <motion.h1
             className="font-tungsten font-bold leading-none"
             initial="hidden"

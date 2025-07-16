@@ -23,7 +23,7 @@ const BranchesMarginales = () => {
       <div className="container mx-auto px-4">
         <motion.h1
           id="branches-title"
-          className="text-center text-[120px] font-bold title-stroke font-stretch-extra-condensed mb-8 mt-32 black"
+          className="text-center text-[130px] font-bold title-stroke font-stretch-extra-condensed mb-8 mt-32 black"
           initial={{ opacity: 0, y: -50 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, ease: "easeOut" }}

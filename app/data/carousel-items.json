@@ -1,18 +1,18 @@
 [
   {
-    "id": 1,
-    "title": "DU ROCK MON POTE",
+    "id": 4,
+    "title": "ROCK'N'POCHE",
     "description": "HAUTE SAVOIE, FRANCE",
-    "image": "/assets/images/carousel/du-rock-mon-pote.png",
-    "titleFont": "font-tungsten",
+    "image": "/assets/images/carousel/rock-n-poche.png",
+    "titleFont": "font-hitmepunk",
     "descriptionFont": "font-sourcesans3",
-    "titleColor": "text-[#B5252A]",
-    "descriptionColor": "text-white",
-    "titleSize": "text-4xl md:text-6xl",
-    "descriptionSize": "text-lg md:text-xl",
-    "link": "https://www.bordeaux-tourisme.com/agenda/fetes-festivals.html",
+    "titleColor": "text-yellow-400",
+    "descriptionColor": "text-gray-100",
+    "titleSize": "text-5xl md:text-7xl",
+    "descriptionSize": "text-xl md:text-2xl",
+    "link": "https://www.rocknpoche.com",
     "buttonText": "BILLETERIE",
-    "buttonFont": "font-tungsten"
+    "buttonFont": "font-hitmepunk"
   },
   {
     "id": 2,
@@ -25,8 +25,8 @@
     "descriptionColor": "text-gray-200",
     "titleSize": "text-5xl md:text-7xl",
     "descriptionSize": "text-base md:text-lg",
-    "link": "/artists",
-    "buttonText": "DÉCOUVRIR",
+    "link": "https://www.rockenseine.com",
+    "buttonText": "BILLETERIE",
     "buttonFont": "font-sourcesans3"
   },
   {
@@ -40,23 +40,23 @@
     "descriptionColor": "text-white",
     "titleSize": "text-4xl md:text-6xl",
     "descriptionSize": "text-lg md:text-xl",
-    "link": "/groups",
-    "buttonText": "EXPLORER",
+    "link": "https://www.bordeaux-tourisme.com/agenda/fetes-festivals.html",
+    "buttonText": "BILLETERIE",
     "buttonFont": "font-tungsten"
   },
   {
-    "id": 4,
-    "title": "ROCK'N'POCHE",
+    "id": 1,
+    "title": "DU ROCK MON POTE",
     "description": "HAUTE SAVOIE, FRANCE",
-    "image": "/assets/images/carousel/rock-n-poche.png",
-    "titleFont": "font-hitmepunk",
+    "image": "/assets/images/carousel/du-rock-mon-pote.png",
+    "titleFont": "font-tungsten",
     "descriptionFont": "font-sourcesans3",
-    "titleColor": "text-yellow-400",
-    "descriptionColor": "text-gray-100",
-    "titleSize": "text-5xl md:text-7xl",
-    "descriptionSize": "text-xl md:text-2xl",
-    "link": "/contact",
-    "buttonText": "NOUS CONTACTER",
-    "buttonFont": "font-hitmepunk"
+    "titleColor": "text-[#B5252A]",
+    "descriptionColor": "text-white",
+    "titleSize": "text-4xl md:text-6xl",
+    "descriptionSize": "text-lg md:text-xl",
+    "link": "https://durockmonpote.com",
+    "buttonText": "BILLETERIE",
+    "buttonFont": "font-tungsten"
   }
 ]

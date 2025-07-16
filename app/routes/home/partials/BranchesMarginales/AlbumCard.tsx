@@ -79,7 +79,7 @@ const AlbumCard: React.FC<AlbumCardProps> = ({ album, index, totalAlbums }) => {
             <motion.img 
               src={album.src}
               alt={album.alt}
-              className="w-full h-80 object-cover rounded-lg shadow-2xl transition-transform duration-300 hover:scale-105"
+              className="w-full h-80 object-cover rounded-lg shadow-4xl transition-transform duration-300 hover:scale-105"
               loading="lazy"
               layoutId={`album-${album.id}`}
             />
@@ -88,7 +88,7 @@ const AlbumCard: React.FC<AlbumCardProps> = ({ album, index, totalAlbums }) => {
           <motion.img 
             src={album.src}
             alt={album.alt}
-            className="w-full h-80 object-cover rounded-lg shadow-2xl"
+            className="w-full h-80 object-cover rounded-lg shadow-4xl"
             loading="lazy"
             layoutId={`album-${album.id}`}
           />
@@ -105,7 +105,7 @@ const AlbumCard: React.FC<AlbumCardProps> = ({ album, index, totalAlbums }) => {
           }}
         >
           <motion.h3 
-            className="font-tungsten text-xl font-bold mb-2 uppercase tracking-wider"
+            className="font-tungsten text-4xl font-bold mb-2 uppercase tracking-wider"
             variants={textVariants}
             initial="hidden"
             animate={isHovered ? "visible" : "hidden"}
@@ -119,7 +119,7 @@ const AlbumCard: React.FC<AlbumCardProps> = ({ album, index, totalAlbums }) => {
           </motion.h3>
           {album.groupName && (
             <motion.p 
-              className="text-xs text-gray-300 mb-1 opacity-80"
+              className="text-2xl text-gray-300 mb-1 opacity-80"
               variants={textVariants}
               initial="hidden"
               animate={isHovered ? "visible" : "hidden"}
@@ -133,7 +133,7 @@ const AlbumCard: React.FC<AlbumCardProps> = ({ album, index, totalAlbums }) => {
             </motion.p>
           )}
           <motion.p 
-            className="text-sm leading-relaxed m-0 opacity-90"
+            className="text-2xl leading-relaxed m-0 opacity-90"
             variants={textVariants}
             initial="hidden"
             animate={isHovered ? "visible" : "hidden"}
