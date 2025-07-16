@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "DU ROCK MON POTE",
+    "description": "HAUTE SAVOIE, FRANCE",
+    "image": "/assets/images/carousel/du-rock-mon-pote.png",
+    "titleFont": "font-tungsten",
+    "descriptionFont": "font-sourcesans3",
+    "titleColor": "text-[#B5252A]",
+    "descriptionColor": "text-white",
+    "titleSize": "text-4xl md:text-6xl",
+    "descriptionSize": "text-lg md:text-xl",
+    "link": "https://www.bordeaux-tourisme.com/agenda/fetes-festivals.html",
+    "buttonText": "BILLETERIE",
+    "buttonFont": "font-tungsten"
+  },
+  {
+    "id": 2,
+    "title": "ROCK EN SEINE",
+    "description": "PARC DE SAINT CLOUD, FRANCE",
+    "image": "/assets/images/carousel/rock-en-seine.png",
+    "titleFont": "font-tungsten",
+    "descriptionFont": "font-sourcesans3",
+    "titleColor": "text-white",
+    "descriptionColor": "text-gray-200",
+    "titleSize": "text-5xl md:text-7xl",
+    "descriptionSize": "text-base md:text-lg",
+    "link": "/artists",
+    "buttonText": "DÉCOUVRIR",
+    "buttonFont": "font-sourcesans3"
+  },
+  {
+    "id": 3,
+    "title": "BORDEAUX ROCK",
+    "description": "BORDEAUX, FRANCE",
+    "image": "/assets/images/carousel/rock-bordeaux.png",
+    "titleFont": "font-tungsten",
+    "descriptionFont": "font-sourcesans3",
+    "titleColor": "text-[#B5252A]",
+    "descriptionColor": "text-white",
+    "titleSize": "text-4xl md:text-6xl",
+    "descriptionSize": "text-lg md:text-xl",
+    "link": "/groups",
+    "buttonText": "EXPLORER",
+    "buttonFont": "font-tungsten"
+  },
+  {
+    "id": 4,
+    "title": "ROCK'N'POCHE",
+    "description": "HAUTE SAVOIE, FRANCE",
+    "image": "/assets/images/carousel/rock-n-poche.png",
+    "titleFont": "font-hitmepunk",
+    "descriptionFont": "font-sourcesans3",
+    "titleColor": "text-yellow-400",
+    "descriptionColor": "text-gray-100",
+    "titleSize": "text-5xl md:text-7xl",
+    "descriptionSize": "text-xl md:text-2xl",
+    "link": "/contact",
+    "buttonText": "NOUS CONTACTER",
+    "buttonFont": "font-hitmepunk"
+  }
+]

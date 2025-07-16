@@ -1,0 +1,260 @@
+[
+  {
+    "id": "arch-enemy",
+    "name": "Arch Enemy",
+    "genre": "Melodic Death Metal",
+    "origin": "Sweden",
+    "description": "Arch Enemy, c'est du métal mélodique qui te prend aux tripes. Avec des riffs de guitare intenses et une voix puissante, ils explorent des thèmes de pouvoir et de rébellion.",
+    "short_description": "Un pilier du métal mélodique, puissant et rebelle.",
+    "albums": [
+      {
+        "id": 0,
+        "title": "Blood Dynasty",
+        "src": "/assets/images/albums/arch-ennemy/arch-enemy-blood-dynasty.png",
+        "alt": "Arch Enemy - Blood Dynasty",
+        "description": "Arch Enemy, c'est du lourd ! Avec 'Blood Dynasty', ils te balancent un métal mélodique qui te prend aux tripes. Les riffs de guitare sont dingues, et la voix, puissante. Ça parle de pouvoir, de rébellion, et de la lutte éternelle entre la lumière et l'obscurité. Chaque morceau est une claque, brutal mais beau. Si t'es fan de métal qui envoie du bois, cet album est pour toi.",
+        "short_description": "Un album de métal mélodique puissant qui explore les thèmes du pouvoir et de la rébellion."
+      },
+      {
+        "id": 1,
+        "title": "Deceiver",
+        "src": "/assets/images/albums/arch-ennemy/deceiver.png",
+        "alt": "Arch Enemy - Deceiver",
+        "description": "'Deceiver' d'Arch Enemy, c'est un voyage captivant entre mensonge et vérité. Les riffs agressifs, la batterie qui claque, et les mélodies envoûtantes te prennent direct. Ça parle de trahison, d'identité, et de résilience. Chaque morceau est taillé au millimètre, et si t'aimes le métal qui te fait réfléchir tout en te secouant, cet album est pour toi.",
+        "short_description": "Un voyage captivant à travers les thèmes de la tromperie et de la résilience."
+      },
+      {
+        "id": 2,
+        "title": "War Eternal",
+        "src": "/assets/images/albums/arch-ennemy/war-eternal.png",
+        "alt": "Arch Enemy - War Eternal",
+        "description": "'War Eternal' d'Arch Enemy, c'est l'hymne de la rébellion et de la force. Les riffs féroces et les voix puissantes te transportent. Ça parle de guerre, de survie, et de l'esprit humain indomptable. Chaque morceau est intense et inspirant. Si t'aimes le métal qui te donne la pêche, cet album est un incontournable.",
+        "short_description": "Un hymne à la rébellion et à la force, avec des riffs féroces et des voix puissantes."
+      }
+    ]
+  },
+  {
+    "id": "dream-theater",
+    "name": "Dream Theater",
+    "genre": "Progressive Metal",
+    "origin": "United States",
+    "description": "Dream Theater, c'est le voyage dans ta tête avec des compos complexes et un jeu virtuose. Ils te plongent dans des rêves et des réflexions profondes.",
+    "short_description": "Des compos complexes et un jeu virtuose qui te font voyager.",
+    "albums": [
+      {
+        "id": 3,
+        "title": "Parasomia",
+        "src": "/assets/images/albums/arch-ennemy/dream-theater-parasomia.png",
+        "alt": "Dream Theater - Parasomia",
+        "description": "Dream Theater, c'est le voyage dans ta tête avec 'Parasomia'. Les mecs te font plonger dans des rêves bizarres avec des passages musicaux de ouf et des paroles qui te font réfléchir. Chaque morceau t'emmène dans un monde de rêves et de mystères. Si t'aimes les compos complexes et les ambiances éthérées, cet album va te faire planer.",
+        "short_description": "Un voyage musical à travers les rêves et les mystères avec des compositions complexes."
+      }
+    ]
+  },
+  {
+    "id": "the-horrors",
+    "name": "The Horrors",
+    "genre": "Post-punk / Gothic Rock",
+    "origin": "United Kingdom",
+    "description": "Les Horrors, c'est l'exploration des côtés sombres de la nature humaine avec un son post-punk et gothique. Ça te file la chair de poule.",
+    "short_description": "Exploration des côtés sombres avec un son post-punk et gothique.",
+    "albums": [
+      {
+        "id": 4,
+        "title": "The Horrors",
+        "src": "/assets/images/albums/arch-ennemy/the-horrors.png",
+        "alt": "The Horrors - The Horrors",
+        "description": "Les Horrors, c'est l'exploration des côtés sombres de la nature humaine. Avec leur album éponyme, ils te plongent dans des mélodies étranges et des ambiances qui te filent la chair de poule. Ça parle de peur, de désir, et de l'inconnu. Si t'aimes les trucs qui te font frissonner, cet album est fait pour toi.",
+        "short_description": "Une exploration de la peur, du désir et de l'inconnu à travers des mélodies étranges."
+      }
+    ]
+  },
+  {
+    "id": "mnnqns",
+    "name": "MNNQNS",
+    "genre": "Post-punk / Indie Rock",
+    "origin": "France",
+    "description": "MNNQNS, c'est l'énergie brute de la vie moderne avec des influences post-punk et indie rock. Ça parle d'identité et de quête de sens.",
+    "short_description": "Énergie brute et quête de sens avec un son post-punk.",
+    "albums": [
+      {
+        "id": 5,
+        "title": "Body Negative",
+        "src": "/assets/images/albums/mnnqns/body-negative.png",
+        "alt": "MNNQNS - Body Negative",
+        "description": "MNNQNS, c'est l'énergie brute de la vie moderne. 'Body Negative', c'est des riffs de guitare qui déchirent et des rythmes qui te font bouger. Ça parle d'identité, d'aliénation, et de la quête de sens dans un monde chaotique. Chaque morceau est une explosion d'énergie et d'émotion. Si t'aimes le rock qui te secoue, fonce !",
+        "short_description": "Une exploration brute de l'identité et de l'aliénation avec des riffs de guitare énergiques."
+      },
+      {
+        "id": 6,
+        "title": "The Chosen",
+        "src": "/assets/images/albums/mnnqns/the-choosen.png",
+        "alt": "MNNQNS - The Chosen",
+        "description": "'The Chosen' de MNNQNS, c'est un album qui te fait réfléchir et bouger. Avec des influences post-punk et indie rock, le son est à la fois frais et familier. Ça parle de choix, de destin, et de la puissance de l'individu. Chaque morceau est une claque intellectuelle et sonore. Si t'aimes les trucs qui te font cogiter, cet album est pour toi.",
+        "short_description": "Une exploration intellectuelle et sonore du choix et du destin."
+      }
+    ]
+  },
+  {
+    "id": "lysistrata",
+    "name": "Lysistrata",
+    "genre": "Alternative Rock",
+    "origin": "France",
+    "description": "Lysistrata, c'est des paysages sonores immersifs et une profondeur émotionnelle. Ils explorent la nature, la solitude et le temps qui passe.",
+    "short_description": "Paysages sonores immersifs et profondeur émotionnelle.",
+    "albums": [
+      {
+        "id": 7,
+        "title": "Park",
+        "src": "/assets/images/albums/lysistrata/park.png",
+        "alt": "Lysistrata - Park",
+        "description": "'Park' de Lysistrata, c'est un voyage sonore et émotionnel. Les guitares sont travaillées, les rythmes puissants, et le son est à la fois vaste et intime. Ça parle de nature, de solitude, et du temps qui passe. Chaque morceau est une œuvre d'art, et si t'aimes les ambiances immersives, cet album est pour toi.",
+        "short_description": "Un voyage sonore et émotionnel explorant la nature et la solitude."
+      },
+      {
+        "id": 8,
+        "title": "The Thread",
+        "src": "/assets/images/albums/lysistrata/the-thread.png",
+        "alt": "Lysistrata - The Thread",
+        "description": "'The Thread' de Lysistrata, c'est l'exploration des liens qui nous unissent. Les arrangements musicaux sont complexes, les paroles introspectives, et chaque morceau tisse une toile sonore et émotionnelle. Ça parle de relations, de communication, et des liens qui nous lient. Si t'aimes les compos qui te touchent, cet album est pour toi.",
+        "short_description": "Une exploration des relations et de la communication à travers des arrangements complexes."
+      },
+      {
+        "id": 9,
+        "title": "Veil",
+        "src": "/assets/images/albums/lysistrata/veil.png",
+        "alt": "Lysistrata - Veil",
+        "description": "'Veil' de Lysistrata, c'est une exploration des mystères et des révélations. Les mélodies sont éthérées, l'instrumentation puissante, et le son est à la fois envoûtant et exaltant. Ça parle de vérités cachées, de secrets, et de l'inconnu. Chaque morceau est un voyage dans les profondeurs de l'expérience humaine.",
+        "short_description": "Une exploration des mystères et des révélations avec des mélodies éthérées."
+      }
+    ]
+  },
+  {
+    "id": "bambara",
+    "name": "Bambara",
+    "genre": "Post-punk / Noise Rock",
+    "origin": "United States",
+    "description": "Bambara, c'est une exploration viscérale de l'identité et de la transformation avec un son post-punk brut.",
+    "short_description": "Exploration viscérale de l'identité avec un son post-punk.",
+    "albums": [
+      {
+        "id": 10,
+        "title": "Birthmarks",
+        "src": "/assets/images/albums/bambara/birthmarks.png",
+        "alt": "Bambara - Birthmarks",
+        "description": "'Birthmarks' de Bambara, c'est une exploration viscérale de l'identité et de la transformation. Les mélodies sont sombres, les rythmes intenses, et le son est à la fois envoûtant et puissant. Ça parle de découverte de soi, de changement, et des marques qu'on laisse dans le monde. Chaque morceau est un voyage brut et émotionnel.",
+        "short_description": "Une exploration viscérale de l'identité et de la transformation avec des rythmes intenses."
+      },
+      {
+        "id": 11,
+        "title": "Shadow",
+        "src": "/assets/images/albums/bambara/shadow.png",
+        "alt": "Bambara - Shadow",
+        "description": "'Shadow' de Bambara, c'est une exploration sombre et atmosphérique de la psyché humaine. Les mélodies sont envoûtantes, l'instrumentation puissante, et le son est à la fois étrange et captivant. Ça parle de peur, de désir, et des ombres qui nous habitent. Chaque morceau est un mélange magistral d'émotion et de son.",
+        "short_description": "Une exploration sombre et atmosphérique de la psyché humaine."
+      },
+      {
+        "id": 12,
+        "title": "Stray",
+        "src": "/assets/images/albums/bambara/stray.png",
+        "alt": "Bambara - Stray",
+        "description": "'Stray' de Bambara, c'est une exploration brute et sans filtre de la vie en marge. Les riffs de guitare sont rugueux, les rythmes entraînants, et le son est à la fois tranchant et captivant. Ça parle d'aliénation, de rébellion, et de la quête d'appartenance. Chaque morceau est une explosion d'énergie et d'émotion.",
+        "short_description": "Une exploration brute et sans filtre de la vie en marge."
+      }
+    ]
+  },
+  {
+    "id": "just-mustard",
+    "name": "Just Mustard",
+    "genre": "Shoegaze / Noise Rock / Post-punk",
+    "origin": "Ireland",
+    "description": "Just Mustard, c'est un mélange unique de shoegaze, noise rock et post-punk. Leur son est brut et désorientant.",
+    "short_description": "Mélange unique de shoegaze et post-punk, brut et désorientant.",
+    "albums": [
+      {
+        "id": 13,
+        "title": "Heart Under",
+        "src": "/assets/images/albums/just-mustard/hearth-under.png",
+        "alt": "just-mustard - Heart Under",
+        "description": "Just Mustard, c'est un groupe venu de Dundalk, une petite ville d'Irlande. À première vue, tu t'attends à du rock indé classique… mais non. Les mecs (et Katie, leur chanteuse) balancent un truc épais, noise, tendu. Un mélange de shoegaze crasseux, de post-punk glacial et de textures industrielles. Pas de guitares mielleuses ou de refrains faciles : chez eux, tout est brut, désorientant, mais hyper maîtrisé.",
+        "short_description": "Un mélange brut et intense de shoegaze, noise rock et post-punk."
+      },
+      {
+        "id": 14,
+        "title": "Live Session",
+        "src": "/assets/images/albums/just-mustard/live-session.png",
+        "alt": "just-mustard - Live Session",
+        "description": "'Live Session' de just-mustard, c'est l'énergie brute et l'émotion des performances live du groupe. L'album propose une collection de morceaux enregistrés en live, montrant la capacité du groupe à créer une musique à la fois puissante et intime. Chaque morceau est un témoignage du son unique et de la vision du groupe, offrant aux auditeurs un aperçu de la magie de leurs concerts.",
+        "short_description": "Capturer l'énergie brute et l'émotion des performances live."
+      },
+      {
+        "id": 15,
+        "title": "Wednesday",
+        "src": "/assets/images/albums/just-mustard/wednesday.png",
+        "alt": "just-mustard - Wednesday",
+        "description": "'Wednesday' de just-mustard, c'est une exploration hantée du temps et de la mémoire. Les mélodies sont éthérées, les paroles introspectives, et le son est à la fois envoûtant et beau. Ça parle de nostalgie, de réflexion, et du passage du temps. Chaque morceau est une œuvre d'art soigneusement conçue, offrant aux auditeurs un aperçu du monde unique de son et d'émotion du groupe.",
+        "short_description": "Une exploration hantée du temps et de la mémoire avec des mélodies éthérées."
+      }
+    ]
+  },
+  {
+    "id": "big-brave",
+    "name": "Big Brave",
+    "genre": "Post-metal / Drone",
+    "origin": "Canada",
+    "description": "Big Brave, c'est une exploration puissante du son et du silence avec des éléments de post-metal et drone.",
+    "short_description": "Exploration du son et du silence avec du post-metal.",
+    "albums": [
+      {
+        "id": 16,
+        "title": "A Gaze Among Them",
+        "src": "/assets/images/albums/bigbrave/a-gaze-among-them.png",
+        "alt": "Big Brave - A Gaze Among Them",
+        "description": "'A Gaze Among Them' de Big Brave, c'est une exploration puissante du son et du silence. Les riffs de guitare lourds et les voix éthérées créent un son à la fois intense et méditatif. Ça parle d'observation, d'introspection, et de la quête de sens. Chaque morceau est un mélange magistral de son et d'émotion, offrant aux auditeurs un aperçu du monde unique de musique et de narration du groupe.",
+        "short_description": "Une exploration puissante du son et du silence avec des riffs de guitare intenses."
+      },
+      {
+        "id": 17,
+        "title": "Chaos of Flowers",
+        "src": "/assets/images/albums/bigbrave/chaos-of-flowers.png",
+        "alt": "Big Brave - Chaos of Flowers",
+        "description": "'Chaos of Flowers' de Big Brave, c'est une exploration envoûtante de la beauté et du chaos. Les guitares sont travaillées, les rythmes puissants, et le son est à la fois vaste et intime. Ça parle de nature, de transformation, et de l'équilibre délicat entre ordre et désordre. Chaque morceau est une œuvre d'art soigneusement conçue.",
+        "short_description": "Une exploration envoûtante de la beauté et du chaos avec des rythmes puissants."
+      },
+      {
+        "id": 18,
+        "title": "Leaving None",
+        "src": "/assets/images/albums/bigbrave/leaving-none.png",
+        "alt": "Big Brave - Leaving None",
+        "description": "'Leaving None' de Big Brave, c'est une exploration hantée de la perte et de la résilience. Les mélodies sont éthérées, l'instrumentation puissante, et le son est à la fois envoûtant et exaltant. Ça parle de deuil, de guérison, et de la force de l'esprit humain. Chaque morceau est un voyage dans les profondeurs de l'expérience humaine.",
+        "short_description": "Une exploration hantée de la perte et de la résilience avec des mélodies éthérées."
+      }
+    ]
+  },
+  {
+    "id": "echo-chamber",
+    "name": "Echo Chamber",
+    "genre": "Alternative Rock",
+    "origin": "Unknown",
+    "description": "Echo Chamber, c'est une exploration poignante de la mémoire et de la perte avec un son rock alternatif.",
+    "short_description": "Exploration poignante de la mémoire avec du rock alternatif.",
+    "albums": [
+      {
+        "id": 21,
+        "title": "The Black Hole Understands",
+        "src": "/assets/images/albums/just-mustard/live-session.png",
+        "alt": "just-mustard - Live Session",
+        "description": "'Live Session' de just-mustard, c'est l'énergie brute et l'émotion des performances live du groupe. L'album propose une collection de morceaux enregistrés en live, montrant la capacité du groupe à créer une musique à la fois puissante et intime. Chaque morceau est un témoignage du son unique et de la vision du groupe, offrant aux auditeurs un aperçu de la magie de leurs concerts.",
+        "short_description": "Capturer l'énergie brute et l'émotion des performances live."
+      },
+      {
+        "id": 20,
+        "title": "Memorial",
+        "src": "/assets/images/album memorial.jpg",
+        "alt": "Echo Chamber - Memorial",
+        "description": "'Memorial' d'Echo Chamber, c'est une exploration poignante de la mémoire et de la perte. Les mélodies sont éthérées, les paroles introspectives, et le son est à la fois envoûtant et beau. Ça parle de nostalgie, de réflexion, et du passage du temps. Chaque morceau est une œuvre d'art soigneusement conçue, offrant aux auditeurs un aperçu du monde unique de son et d'émotion du groupe.",
+        "short_description": "Une exploration poignante de la mémoire et de la perte avec des mélodies éthérées."
+      }
+    ]
+  }
+]

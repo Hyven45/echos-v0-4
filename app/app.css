@@ -1,0 +1,119 @@
+@import "tailwindcss";
+
+/* Font Face Declarations */
+@font-face {
+  font-family: "Cinzel";
+  src: url("/assets/fonts/Cinzel,Dancing_Script,Plus_Jakarta_Sans,Signika,Source_Sans_3/Cinzel/Cinzel-VariableFont_wght.ttf")
+    format("truetype");
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Dancing Script";
+  src: url("/assets/fonts/Cinzel,Dancing_Script,Plus_Jakarta_Sans,Signika,Source_Sans_3/Dancing_Script/DancingScript-VariableFont_wght.ttf")
+    format("truetype");
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Plus Jakarta Sans";
+  src: url("/assets/fonts/Cinzel,Dancing_Script,Plus_Jakarta_Sans,Signika,Source_Sans_3/Plus_Jakarta_Sans/PlusJakartaSans-VariableFont_wght.ttf")
+    format("truetype");
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Signika";
+  src: url("/assets/fonts/Cinzel,Dancing_Script,Plus_Jakarta_Sans,Signika,Source_Sans_3/Signika/Signika-VariableFont_GRAD,wght.ttf")
+    format("truetype");
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Source Sans 3";
+  src: url("/assets/fonts/Cinzel,Dancing_Script,Plus_Jakarta_Sans,Signika,Source_Sans_3/Source_Sans_3/SourceSans3-VariableFont_wght.ttf")
+    format("truetype");
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Tungsten";
+  src: url("/assets/fonts/Tungsten-Book.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Tungsten";
+  src: url("/assets/fonts/Tungsten-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Tungsten";
+  src: url("/assets/fonts/Tungsten-Black.woff2") format("woff2");
+  font-weight: 900;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hit me, punk!";
+  src: url("/assets/fonts/Hit me, punk! 01.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+
+@theme {
+  --font-sans: "Tungsten", ui-sans-serif, system-ui, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+  --font-size-base: 1.125rem; /* 18px */
+
+  --font-cinzel: "Cinzel", serif;
+  --font-dancingscript: "Dancing Script", cursive;
+  --font-plusjakartasans: "Plus Jakarta Sans", sans-serif;
+  --font-signika: "Signika", sans-serif;
+  --font-sourcesans3: "Source Sans 3", sans-serif;
+  --font-tungsten: "Tungsten", sans-serif;
+  --font-hitmepunk: "Hit me, punk!", cursive;
+}
+
+html,
+body {
+  @apply bg-[url('/assets/images/bg_body.png')] bg-contain bg-center;
+
+  @media (prefers-color-scheme: dark) {
+    color-scheme: dark;
+  }
+
+  :is(h1, h2, h3, h4, h5, h6).title-stroke {
+    -webkit-text-stroke-width: 1px;
+    line-height: 0.8;
+    &.red {
+      -webkit-text-stroke-color: #b5252a;
+      color: #b5252a;
+    }
+    &.black {
+      background: url("/assets/images/bg_body.png") no-repeat center center;
+      background-size: cover;
+      background-blend-mode: color-dodge;
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: #24242490;
+      -webkit-text-stroke-color: #242424;
+    }
+  }
+
+  .button-white {
+    @apply cursor-pointer border-2 border-white px-8 py-4 font-medium font-stretch-100% text-white text-4xl hover:bg-[#B5252A] hover:text-white hover:border-[#B5252A] transition-all duration-300 ease-out;
+  }
+  .button-red {
+    @apply cursor-pointer border-2 border-[#B5252A] px-8 py-4 font-medium font-stretch-100% text-[#B5252A] text-4xl hover:bg-[#B5252A] hover:text-white transition-all duration-300 ease-out;
+  }
+}
